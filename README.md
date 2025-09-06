@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from México<br><br>- 🔭I'm studying an engineering degree in Data Science and Mathematics at Tecnológico de Monterrey, Campus Querétaro.<br>- 📚 I'm currently learning OOP with C++.<br>- 🖌️​​🛠️​ In my free time, I enjoy drawing and tinkering with different projects.</p>
+<p align="left">I'm from México<br><br>- 🔭I'm studying an engineering degree in Data Science and Mathematics at Tecnológico de Monterrey, Campus Querétaro.<br>- 📚 I'm currently learning C++.<br>- 🖌️​​🛠️​ In my free time, I enjoy drawing and tinkering with different projects.</p>
 
 ###
 
