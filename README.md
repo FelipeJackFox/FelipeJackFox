@@ -16,12 +16,13 @@
 
 <br/>
 
-Focused on **artificial intelligence**, **robotics**, and systems that learn from the real world.
-When I'm not coding, I'm probably drawing or tinkering with a new side project.
+<div align="center">
+  <img src="./assets/bio.svg" width="800" alt="About me"/>
+</div>
 
 <br/>
 
-### Tech Stack
+<img src="./assets/label-tech.svg" height="24" alt="Tech Stack"/>
 
 <div align="center">
   <img src="./assets/tech.svg" alt="Python, C++, R, Kotlin, PyTorch, TensorFlow, AWS, Git"/>
@@ -29,7 +30,7 @@ When I'm not coding, I'm probably drawing or tinkering with a new side project.
 
 <br/>
 
-### Projects
+<img src="./assets/label-projects.svg" height="24" alt="Projects"/>
 
 <div align="center">
   <a href="https://github.com/FelipeJackFox/rl-snake"><img src="./assets/project-rl-snake.svg" width="380" alt="rl-snake"/></a>
