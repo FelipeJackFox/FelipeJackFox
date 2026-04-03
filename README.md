@@ -10,8 +10,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/felipepachecozamorano">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"/>
-      <img src="./assets/btn-linkedin.svg" height="32" alt="LinkedIn"/>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-li-light.svg"/>
+      <img src="./assets/btn-li.svg" height="32" alt="LinkedIn"/>
     </picture>
   </a>
   &nbsp;&nbsp;
@@ -56,8 +56,8 @@
 <div align="center">
   <a href="https://github.com/FelipeJackFox/rl-snake">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-rl-snake-light.svg"/>
-      <img src="./assets/project-rl-snake.svg" width="380" alt="rl-snake"/>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-rl-snake-light.svg"/>
+      <img src="./assets/card-rl-snake.svg" width="380" alt="rl-snake"/>
     </picture>
   </a>
   &nbsp;
@@ -70,8 +70,8 @@
   <br/><br/>
   <a href="https://github.com/FelipeJackFox/shazam-demo">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-shazam-light.svg"/>
-      <img src="./assets/project-shazam.svg" width="380" alt="shazam-demo"/>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-shazam-light.svg"/>
+      <img src="./assets/card-shazam.svg" width="380" alt="shazam-demo"/>
     </picture>
   </a>
   &nbsp;
