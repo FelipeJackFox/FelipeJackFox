@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="80" viewBox="0 0 380 80">
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="80" viewBox="0 0 380 80"><!-- v2 -->
   <rect x="0.5" y="0.5" width="379" height="79" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
   <text x="20" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="500" fill="#e2e8f0" letter-spacing="0.5">PsiNotes</text>
   <text x="20" y="52" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="300" fill="#64748b">Mobile notes application</text>
