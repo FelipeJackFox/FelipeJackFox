@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110">
+  <rect x="0.5" y="0.5" width="799" height="109" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="6"/>
+  <text x="400" y="48" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="32" font-weight="300" fill="#1e293b" text-anchor="middle" letter-spacing="5">Felipe Pacheco</text>
+  <text x="400" y="80" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="300" fill="#64748b" text-anchor="middle" letter-spacing="3">AI  &amp;  Robotics  //  Mathematics</text>
+</svg>
