@@ -21,17 +21,13 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+intelligent+systems+that+bridge+math+%26+reality" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=2000&color=94A3B8&center=true&vCenter=true&multiline=false&width=480&height=28&lines=Building+intelligent+systems+that+bridge+math+%26+reality" alt="Typing SVG"/>
   </a>
 </div>
 
 <br/>
 
 <!-- About -->
-
-```
-> whoami
-```
 
 Engineering student in **Data Science & Mathematics** at Tecnologico de Monterrey, Queretaro.
 Focused on **artificial intelligence**, **robotics**, and systems that learn from the real world.
@@ -44,7 +40,7 @@ When I'm not coding, I'm probably drawing or tinkering with a new side project.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,kotlin,pytorch,tensorflow,linux,git&theme=dark&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,kotlin,pytorch,tensorflow,aws,git&theme=dark&perline=8" alt="Tech Stack"/>
   </a>
 </div>
 
@@ -103,12 +99,12 @@ When I'm not coding, I'm probably drawing or tinkering with a new side project.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FelipeJackFox&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&ring_color=38bdf8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FelipeJackFox&show_icons=true&hide_border=true&bg_color=0f172a&title_color=cbd5e1&icon_color=94a3b8&text_color=e2e8f0&ring_color=64748b"/>
     <img src="https://github-readme-stats.vercel.app/api?username=FelipeJackFox&show_icons=true&hide_border=true" height="165" alt="GitHub Stats"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJackFox&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=6"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJackFox&layout=compact&hide_border=true&bg_color=0f172a&title_color=cbd5e1&text_color=e2e8f0&langs_count=6"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJackFox&layout=compact&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
   </picture>
 </div>
@@ -118,7 +114,7 @@ When I'm not coding, I'm probably drawing or tinkering with a new side project.
 <!-- Activity Graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FelipeJackFox&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=a78bfa&area=true&area_color=38bdf8&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FelipeJackFox&bg_color=0f172a&color=94a3b8&line=64748b&point=cbd5e1&area=true&area_color=475569&hide_border=true"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeJackFox&area=true&hide_border=true" width="700" alt="Activity Graph"/>
   </picture>
 </div>
