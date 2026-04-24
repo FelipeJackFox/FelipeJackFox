@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50"><!-- v2 -->
-  <text x="400" y="18" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="300" fill="#94a3b8" text-anchor="middle">Focused on artificial intelligence, robotics, and systems that learn from the real world.</text>
-  <text x="400" y="40" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="300" fill="#94a3b8" text-anchor="middle">When I'm not coding, I'm probably drawing or tinkering with a new side project.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <text x="400" y="22" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#cbd5e1" text-anchor="middle">Focused on artificial intelligence, robotics, and systems that learn from the real world.</text>
+  <text x="400" y="46" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#cbd5e1" text-anchor="middle">When I'm not coding, I'm probably drawing or tinkering with a new side project.</text>
 </svg>

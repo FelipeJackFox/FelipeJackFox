@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="80" viewBox="0 0 380 80"><!-- v2 -->
-  <rect x="0.5" y="0.5" width="379" height="79" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
-  <text x="20" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="500" fill="#e2e8f0" letter-spacing="0.5">shazam-demo</text>
-  <text x="20" y="52" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="300" fill="#64748b">Audio fingerprinting &amp; recognition</text>
-  <text x="20" y="67" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="300" fill="#64748b">system</text>
-  <text x="360" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="end">Python</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="100" viewBox="0 0 380 100">
+  <rect x="0.5" y="0.5" width="379" height="99" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
+  <text x="20" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="500" fill="#e2e8f0" letter-spacing="0.3">shazam-demo</text>
+  <text x="334" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="400" fill="#64748b" text-anchor="end">Python</text>
+  <path d="M348 26 L356 32 L348 38" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="20" y="60" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Audio fingerprinting and song recognition</text>
+  <text x="20" y="78" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">— a Shazam-style demo.</text>
 </svg>

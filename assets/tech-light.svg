@@ -1,25 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="36" viewBox="0 0 760 36">
-  <rect x="0.5" y="0.5" width="84" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="43" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">Python</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150">
+  <text x="0" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#0891b2" letter-spacing="2">LANGUAGES</text>
+  <rect x="140.5" y="10.5" width="84" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="183" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">Python</text>
+  <rect x="234.5" y="10.5" width="64" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="267" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">C++</text>
+  <rect x="308.5" y="10.5" width="44" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="330" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">R</text>
+  <rect x="362.5" y="10.5" width="74" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="399" y="30" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">Kotlin</text>
 
-  <rect x="95.5" y="0.5" width="64" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="128" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">C++</text>
+  <text x="0" y="80" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#0891b2" letter-spacing="2">ML / FRAMEWORKS</text>
+  <rect x="140.5" y="58.5" width="84" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="183" y="78" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">PyTorch</text>
+  <rect x="234.5" y="58.5" width="104" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="287" y="78" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">TensorFlow</text>
 
-  <rect x="170.5" y="0.5" width="44" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="193" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">R</text>
-
-  <rect x="225.5" y="0.5" width="74" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="263" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">Kotlin</text>
-
-  <rect x="310.5" y="0.5" width="84" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="353" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">PyTorch</text>
-
-  <rect x="405.5" y="0.5" width="104" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="458" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">TensorFlow</text>
-
-  <rect x="520.5" y="0.5" width="64" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="553" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">AWS</text>
-
-  <rect x="595.5" y="0.5" width="54" height="35" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
-  <text x="623" y="22" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="middle">Git</text>
+  <text x="0" y="128" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#0891b2" letter-spacing="2">TOOLS / CLOUD</text>
+  <rect x="140.5" y="106.5" width="64" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="173" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">AWS</text>
+  <rect x="214.5" y="106.5" width="54" height="30" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="4"/>
+  <text x="241" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#1e293b" text-anchor="middle">Git</text>
 </svg>

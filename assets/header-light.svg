@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110">
-  <rect x="0.5" y="0.5" width="799" height="109" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="6"/>
-  <text x="400" y="48" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="32" font-weight="300" fill="#1e293b" text-anchor="middle" letter-spacing="5">Felipe Pacheco</text>
-  <text x="400" y="80" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="300" fill="#64748b" text-anchor="middle" letter-spacing="3">AI  &amp;  Robotics  //  Mathematics</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-label="Felipe Pacheco — Data Science and Mathematics at ITESM. Focus areas: AI, Robotics, Applied Math.">
+  <rect x="0.5" y="0.5" width="799" height="159" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="8"/>
+  <rect x="380" y="36" width="40" height="2" fill="#0891b2"/>
+  <text x="400" y="78" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="32" font-weight="300" fill="#1e293b" text-anchor="middle" letter-spacing="4">Felipe Pacheco</text>
+  <text x="400" y="106" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#475569" text-anchor="middle" letter-spacing="2">Data Science &amp; Mathematics  ·  ITESM</text>
+  <text x="400" y="132" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#0891b2" text-anchor="middle" letter-spacing="3">AI  ·  ROBOTICS  ·  APPLIED MATH</text>
 </svg>
