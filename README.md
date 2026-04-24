@@ -44,19 +44,8 @@
   <img src="./assets/label-education.svg" height="34" alt="Education"/>
 </picture>
 
-**B.S. Data Science & Mathematics** — Tecnológico de Monterrey (ITESM), Querétaro, MX  
-*Expected 2027* · Applied statistics · Linear algebra · Machine learning · Optimization
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-open-to-light.svg"/>
-  <img src="./assets/label-open-to.svg" height="34" alt="Currently and Open to"/>
-</picture>
-
-- Building reinforcement learning and audio-processing demos in Python.
-- Exploring research interests in **machine learning, computer vision, and applied math**.
-- **Open to:** internships, research assistantships, and collaborative projects.
+**B.S. Data Science & Mathematics** — Tecnológico de Monterrey (ITESM)  
+*Expected 2028*
 
 <br/>
 
@@ -111,37 +100,13 @@
 
 </div>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-stats-light.svg"/>
-  <img src="./assets/label-stats.svg" height="34" alt="GitHub Activity"/>
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FelipeJackFox&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=0891b2&text_color=475569&hide_title=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeJackFox&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&hide_title=true" height="150" alt="GitHub stats for FelipeJackFox"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FelipeJackFox&hide_border=true&background=FFFFFF00&ring=0891b2&fire=0891b2&currStreakNum=1e293b&dates=475569&sideNums=1e293b&sideLabels=475569&currStreakLabel=0891b2&stroke=0891b2"/>
-  <img src="https://streak-stats.demolab.com/?user=FelipeJackFox&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakNum=e2e8f0&dates=cbd5e1&sideNums=e2e8f0&sideLabels=cbd5e1&currStreakLabel=22d3ee&stroke=22d3ee" height="150" alt="GitHub commit streak for FelipeJackFox"/>
-</picture>
-
-</div>
-
-<br/>
-
-<p align="center"><sub><b>Querétaro, Mexico</b> &nbsp;·&nbsp; ES · EN &nbsp;·&nbsp; <a href="https://github.com/FelipeJackFox">github.com/FelipeJackFox</a></sub></p>
-
 <!-- Plain-text version below for GitHub search, Google, and screen readers. -->
 <details>
 <summary><sub>Profile in plain text (search & accessibility)</sub></summary>
 
 **Felipe Pacheco Zamorano** — Data Science & Mathematics student at Tecnológico de Monterrey (ITESM), Querétaro, Mexico. Focus areas: artificial intelligence, robotics, and applied mathematics.
 
-**Education** — B.S. Data Science & Mathematics, ITESM, expected 2027. Coursework in applied statistics, linear algebra, machine learning, and optimization.
+**Education** — B.S. Data Science & Mathematics, ITESM, expected 2028.
 
 **Tech stack** — Python, C++, R, Kotlin, PyTorch, TensorFlow, AWS, Git.
 
@@ -150,8 +115,6 @@
 - [shazam-demo](https://github.com/FelipeJackFox/shazam-demo) — Audio fingerprinting and song recognition, Shazam-style demo (Python).
 - [NC-Syndrome](https://github.com/FelipeJackFox/NC-Syndrome) — Statistical analysis project in R.
 - [PsiNotes](https://github.com/FelipeJackFox/PsiNotes) — Native Android notes app (Kotlin).
-
-**Open to** — internships, research assistantships, and collaborative projects.
 
 **Contact** — [LinkedIn](https://www.linkedin.com/in/felipepachecozamorano) · [Email](mailto:felipepachecozamorano@gmail.com)
 
