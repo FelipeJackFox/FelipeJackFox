@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Education: B.S. Data Science and Mathematics, Tecnológico de Monterrey (ITESM), expected 2028.">
+  <rect x="0.5" y="0.5" width="799" height="99" fill="#0f172a" stroke="#334155" stroke-width="1" rx="8"/>
+  <text x="20" y="28" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#22d3ee" letter-spacing="3">EDUCATION</text>
+  <line x1="20" y1="42" x2="780" y2="42" stroke="#1e293b" stroke-width="1"/>
+  <text x="20" y="66" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#e2e8f0">B.S. Data Science &amp; Mathematics</text>
+  <text x="20" y="86" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Tecnológico de Monterrey (ITESM)  ·  Expected 2028</text>
+</svg>

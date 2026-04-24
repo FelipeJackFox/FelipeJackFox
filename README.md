@@ -5,8 +5,6 @@
   <img src="./assets/header.svg" width="800" alt="Felipe Pacheco — Data Science and Mathematics at ITESM. Focus areas: AI, Robotics, Applied Math."/>
 </picture>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/felipepachecozamorano">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/btn-li-light.svg"/>
@@ -28,45 +26,34 @@
   </picture>
 </a>
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/bio-light.svg"/>
   <img src="./assets/bio.svg" width="800" alt="About me. Focused on artificial intelligence, robotics, and systems that learn from the real world. When I'm not coding, I'm probably drawing or tinkering with a new side project."/>
 </picture>
 
-</div>
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-education-light.svg"/>
-  <img src="./assets/label-education.svg" height="34" alt="Education"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-now-light.svg"/>
+  <img src="./assets/card-now.svg" width="800" alt="Now: Building reinforcement learning and audio-processing demos. Designing tooling for agentic dev workflows with Claude Code and MCP."/>
 </picture>
 
-**B.S. Data Science & Mathematics** — Tecnológico de Monterrey (ITESM)  
-*Expected 2028*
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-tech-light.svg"/>
-  <img src="./assets/label-tech.svg" height="34" alt="Tech Stack"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-education-light.svg"/>
+  <img src="./assets/card-education.svg" width="800" alt="Education: B.S. Data Science and Mathematics, Tecnológico de Monterrey (ITESM), expected 2028."/>
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/tech-light.svg"/>
-  <img src="./assets/tech.svg" alt="Languages: Python, C++, R, Kotlin. ML and Frameworks: PyTorch, TensorFlow. Tools and Cloud: AWS, Git."/>
+  <img src="./assets/tech.svg" width="800" alt="Tech Stack. Languages: Python, C++, R, Kotlin. ML and Frameworks: PyTorch, TensorFlow. Tools and Cloud: AWS, Git."/>
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/label-projects-light.svg"/>
-  <img src="./assets/label-projects.svg" height="34" alt="Featured Projects"/>
+  <img src="./assets/label-projects.svg" height="28" alt="Featured Projects"/>
 </picture>
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/FelipeJackFox/rl-snake">
   <picture>
@@ -105,6 +92,8 @@
 <summary><sub>Profile in plain text (search & accessibility)</sub></summary>
 
 **Felipe Pacheco Zamorano** — Data Science & Mathematics student at Tecnológico de Monterrey (ITESM), Querétaro, Mexico. Focus areas: artificial intelligence, robotics, and applied mathematics.
+
+**Now** — Building reinforcement learning and audio-processing demos. Designing tooling for agentic dev workflows (Claude Code + MCP).
 
 **Education** — B.S. Data Science & Mathematics, ITESM, expected 2028.
 
