@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110" role="img" aria-label="Now: Building reinforcement learning and audio-processing demos. Designing tooling for agentic dev workflows with Claude Code and MCP.">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110" role="img" aria-label="Now: Building PolyGate Polymarket mispricing bot. Training minegpt Minecraft encyclopedia LLM.">
   <rect x="0.75" y="0.75" width="798.5" height="108.5" fill="#f8fafc" stroke="#0891b2" stroke-width="1.5" rx="8"/>
   <circle cx="22" cy="24" r="4" fill="#0891b2">
     <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="36" y="28" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#0891b2" letter-spacing="3">NOW</text>
+  <text x="780" y="28" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="9" font-weight="500" fill="#94a3b8" text-anchor="end" letter-spacing="1.5">AUTO-UPDATED 2026-04-24</text>
   <line x1="20" y1="42" x2="780" y2="42" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="20" y="66" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#1e293b">▸ Building reinforcement learning and audio-processing demos.</text>
-  <text x="20" y="90" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#475569">▸ Designing tooling for agentic dev workflows (Claude Code + MCP).</text>
+  <text x="20" y="66" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#1e293b">▸ Building PolyGate — Polymarket mispricing bot with Qwen + Claude pipeline.</text>
+  <text x="20" y="90" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#475569">▸ LEIA driver-monitoring system with MediaPipe + OpenCV for the ITESM expo.</text>
 </svg>
