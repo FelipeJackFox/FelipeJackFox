@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-now-light.svg"/>
-  <img src="./assets/card-now.svg" width="800" alt="Now: Building reinforcement learning and audio-processing demos. Designing tooling for agentic dev workflows with Claude Code and MCP."/>
+  <img src="./assets/card-now.svg" width="800" alt="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape."/>
 </picture>
 
 <picture>
