@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350" role="img" aria-label="Tech stack as a TOML config file. Languages: Python (primary), C++ (intermediate), R (applied stats), Kotlin (mobile). ML frameworks: PyTorch (RL and DL), TensorFlow (supervised). Tools: AWS (cloud), Git (daily).">
+  <rect x="0.5" y="0.5" width="799" height="349" fill="#1a1b26" stroke="#2d2f43" stroke-width="1" rx="8"/>
+
+  <text x="20" y="34" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#7aa2f7">~/.config</tspan><tspan fill="#bb9af7"> ❯ </tspan><tspan fill="#c0caf5">cat tech-stack.toml</tspan></text>
+
+  <text x="20" y="70" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#565f89">  # 8 packages · curated stack</text>
+
+  <text x="20" y="106" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[languages]</text>
+  <text x="20" y="128" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  python  </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"primary"</tspan></text>
+  <text x="20" y="150" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  cpp     </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"intermediate"</tspan></text>
+  <text x="20" y="172" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  r       </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"applied stats"</tspan></text>
+  <text x="20" y="194" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  kotlin  </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"mobile"</tspan></text>
+
+  <text x="20" y="226" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[ml]</text>
+  <text x="20" y="248" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  pytorch    </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"RL · DL"</tspan></text>
+  <text x="20" y="270" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  tensorflow </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"supervised"</tspan></text>
+
+  <text x="20" y="302" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[tools]</text>
+  <text x="20" y="324" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  aws </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"cloud"</tspan><tspan fill="#c0caf5">    git </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"daily"</tspan></text>
+</svg>

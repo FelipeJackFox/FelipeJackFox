@@ -42,8 +42,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tech-light.svg"/>
-  <img src="./assets/tech.svg" width="800" alt="Tech Stack. Languages: Python, C++, R, Kotlin. ML and Frameworks: PyTorch, TensorFlow. Tools and Cloud: AWS, Git."/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-tech-light.svg"/>
+  <img src="./assets/card-tech.svg" width="800" alt="Tech stack as TOML config. Languages: Python primary, C++ intermediate, R applied stats, Kotlin mobile. ML: PyTorch (RL and DL), TensorFlow (supervised). Tools: AWS (cloud), Git (daily)."/>
 </picture>
 
 <br/>
