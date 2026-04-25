@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"/>
-  <img src="./assets/header.svg" width="800" alt="Felipe Pacheco — Data Science and Mathematics at ITESM. Focus areas: AI, Robotics, Applied Math."/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-header-light.svg"/>
+  <img src="./assets/card-header.svg" width="800" alt="Felipe Pacheco — Data Science and Mathematics student at ITESM, currently in Year 2 of 4. Focus: AI, Robotics, Applied Math."/>
 </picture>
 
 <a href="https://www.linkedin.com/in/felipepachecozamorano">

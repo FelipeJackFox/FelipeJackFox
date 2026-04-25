@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-label="Felipe Pacheco — Data Science and Mathematics student at ITESM, currently in Year 2 of 4. Focus: AI, Robotics, Applied Math.">
+  <defs>
+    <linearGradient id="avatarPlaceholderGradLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="799" height="159" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="8"/>
+
+  <rect x="20" y="20" width="120" height="120" rx="6" fill="url(#avatarPlaceholderGradLight)" stroke="#0891b2" stroke-width="1.5"/>
+  <text x="80" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" font-style="italic" fill="#0891b2" text-anchor="middle" letter-spacing="2">FP</text>
+  <text x="80" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="8" font-weight="600" fill="#94a3b8" letter-spacing="3" text-anchor="middle">AVATAR</text>
+
+  <text x="160" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" font-style="italic" fill="#1e293b" letter-spacing="1.5">FELIPE PACHECO</text>
+  <rect x="160" y="60" width="40" height="2" fill="#0891b2"/>
+
+  <text x="160" y="86" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#475569">Data Science &amp; Mathematics  ·  ITESM</text>
+  <text x="160" y="106" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#64748b">Querétaro, México</text>
+
+  <text x="160" y="138" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#0891b2" letter-spacing="2.5">FOCUS</text>
+  <text x="208" y="138" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" fill="#475569" letter-spacing="0.5">AI  ·  Robotics  ·  Applied Math</text>
+
+  <text x="780" y="42" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#0891b2" letter-spacing="3" text-anchor="end">LV.</text>
+  <text x="780" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" font-style="italic" fill="#1e293b" text-anchor="end">02</text>
+  <rect x="746" y="84" width="34" height="2" fill="#0891b2"/>
+  <text x="780" y="104" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" fill="#64748b" letter-spacing="2" text-anchor="end">YEAR 2 OF 4</text>
+</svg>
