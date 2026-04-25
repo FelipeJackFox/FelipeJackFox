@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape.">
+  <defs>
+    <linearGradient id="redGradLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E63946"/>
+      <stop offset="100%" stop-color="#B0202C"/>
+    </linearGradient>
+    <filter id="bannerShadowLight" x="-2%" y="-10%" width="104%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.25" flood-color="#000000"/>
+    </filter>
+    <pattern id="stripesLight" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
+      <line stroke="#000000" stroke-opacity="0.05" stroke-width="1" x1="0" y1="0" x2="0" y2="8"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="150" fill="#f8fafc"/>
+
+  <g filter="url(#bannerShadowLight)">
+    <polygon points="0,15 560,15 600,70 0,70" fill="url(#redGradLight)"/>
+  </g>
+  <polygon points="0,15 560,15 575,25 0,25" fill="#FFFFFF" opacity="0.10"/>
+
+  <rect x="20" y="29" width="60" height="26" fill="none" stroke="#FFFFFF" stroke-width="1.5" rx="2"/>
+  <circle cx="32" cy="42" r="4" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="47" font-family="Impact, 'Arial Black', sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" letter-spacing="1.5">LIVE</text>
+
+  <text x="100" y="51" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="28" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2">BREAKING PROJECTS</text>
+
+  <rect x="0" y="72" width="800" height="26" fill="#e2e8f0"/>
+  <rect x="0" y="72" width="800" height="26" fill="url(#stripesLight)"/>
+  <text x="20" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#475569" letter-spacing="2">AUTO-UPDATED 2026-04-24</text>
+  <line x1="220" y1="80" x2="220" y2="92" stroke="#475569" stroke-opacity="0.4"/>
+  <text x="232" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="700" fill="#B0202C" letter-spacing="2">LIVE FEED</text>
+  <line x1="320" y1="80" x2="320" y2="92" stroke="#475569" stroke-opacity="0.4"/>
+  <text x="332" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#475569" letter-spacing="2">FELIPE PACHECO</text>
+  <text x="780" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#475569" text-anchor="end" letter-spacing="2">@FELIPEJACKFOX</text>
+
+  <rect x="0" y="100" width="800" height="1" fill="#000000" opacity="0.15"/>
+
+  <rect x="0" y="101" width="800" height="49" fill="#FFFFFF"/>
+  <text x="20" y="122" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#1e293b">▸ Solving Mosel LP models and k-means clustering exercises for ITESM coursework.</text>
+  <text x="20" y="141" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#475569">▸ Planning the minegpt data pipeline after completing the Minecraft wiki scrape.</text>
+</svg>

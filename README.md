@@ -32,8 +32,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/card-now-light.svg"/>
-  <img src="./assets/card-now.svg" width="800" alt="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape."/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape."/>
 </picture>
 
 <picture>
