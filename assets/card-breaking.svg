@@ -1,44 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape.">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="184" viewBox="0 0 800 184" role="img" aria-label="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape.">
   <defs>
+    <clipPath id="cardClip">
+      <polygon points="20,0 800,0 780,184 0,184"/>
+    </clipPath>
     <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#E63946"/>
       <stop offset="100%" stop-color="#B0202C"/>
     </linearGradient>
-    <filter id="bannerShadow" x="-2%" y="-10%" width="104%" height="130%">
-      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.45" flood-color="#000000"/>
-    </filter>
     <pattern id="stripes" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
       <line stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" x1="0" y1="0" x2="0" y2="8"/>
     </pattern>
+    <filter id="cardShadow" x="-2%" y="-5%" width="104%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.45" flood-color="#000000"/>
+    </filter>
   </defs>
 
-  <rect x="0" y="0" width="800" height="150" fill="#0E1116"/>
-
-  <g filter="url(#bannerShadow)">
-    <polygon points="0,15 560,15 600,70 0,70" fill="url(#redGrad)"/>
+  <g filter="url(#cardShadow)">
+    <polygon points="20,0 800,0 780,184 0,184" fill="#0a0d12"/>
   </g>
-  <polygon points="0,15 560,15 575,25 0,25" fill="#FFFFFF" opacity="0.10"/>
 
-  <rect x="20" y="29" width="60" height="26" fill="none" stroke="#FFFFFF" stroke-width="1.5" rx="2"/>
-  <circle cx="32" cy="42" r="4" fill="#FFFFFF">
-    <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="48" y="47" font-family="Impact, 'Arial Black', sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" letter-spacing="1.5">LIVE</text>
+  <g clip-path="url(#cardClip)">
+    <rect x="0" y="12" width="800" height="46" fill="url(#redGrad)"/>
+    <rect x="0" y="12" width="800" height="2" fill="#FFFFFF" opacity="0.18"/>
 
-  <text x="100" y="51" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="28" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2">BREAKING PROJECTS</text>
+    <circle cx="42" cy="35" r="6" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
 
-  <rect x="0" y="72" width="800" height="26" fill="#0E1116"/>
-  <rect x="0" y="72" width="800" height="26" fill="url(#stripes)"/>
-  <text x="20" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="2">AUTO-UPDATED 2026-04-24</text>
-  <line x1="220" y1="80" x2="220" y2="92" stroke="#9CA3AF" stroke-opacity="0.4"/>
-  <text x="232" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="700" fill="#E63946" letter-spacing="2">LIVE FEED</text>
-  <line x1="320" y1="80" x2="320" y2="92" stroke="#9CA3AF" stroke-opacity="0.4"/>
-  <text x="332" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="2">FELIPE PACHECO</text>
-  <text x="780" y="89" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" text-anchor="end" letter-spacing="2">@FELIPEJACKFOX</text>
+    <text x="66" y="48" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="36" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2.5">BREAKING</text>
 
-  <rect x="0" y="100" width="800" height="1" fill="#FFFFFF" opacity="0.15"/>
+    <rect x="200" y="62" width="600" height="42" fill="#FFFFFF"/>
+    <rect x="200" y="62" width="600" height="2" fill="#000000" opacity="0.08"/>
 
-  <rect x="0" y="101" width="800" height="49" fill="#161B22"/>
-  <text x="20" y="122" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#E2E8F0">▸ Solving Mosel LP models and k-means clustering exercises for ITESM coursework.</text>
-  <text x="20" y="141" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">▸ Planning the minegpt data pipeline after completing the Minecraft wiki scrape.</text>
+    <text x="220" y="94" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="32" font-weight="900" font-style="italic" fill="#B0202C" letter-spacing="2.5">PROJECTS</text>
+
+    <rect x="0" y="110" width="800" height="24" fill="#0E1116"/>
+    <rect x="0" y="110" width="800" height="24" fill="url(#stripes)"/>
+    <text x="20" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="2">AUTO-UPDATED 2026-04-24</text>
+
+    <rect x="0" y="135" width="800" height="1" fill="#FFFFFF" opacity="0.15"/>
+
+    <rect x="0" y="136" width="800" height="48" fill="#161B22"/>
+    <text x="20" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#E2E8F0">▸ Solving Mosel LP models and k-means clustering exercises for ITESM coursework.</text>
+    <text x="20" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">▸ Planning the minegpt data pipeline after completing the Minecraft wiki scrape.</text>
+  </g>
 </svg>
