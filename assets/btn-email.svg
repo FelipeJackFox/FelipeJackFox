@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
-  <rect x="0.5" y="0.5" width="159" height="39" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
-  <g transform="translate(13, 12)" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linejoin="round">
-    <rect x="0" y="0" width="20" height="14" rx="1"/>
-    <path d="M0 2 L10 9 L20 2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52">
+  <rect x="0.5" y="0.5" width="219" height="51" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
+  <g transform="translate(16, 18)" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linejoin="round">
+    <rect x="0" y="0" width="22" height="16" rx="1"/>
+    <path d="M0 3 L11 11 L22 3"/>
   </g>
-  <text x="46" y="25" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#e2e8f0" letter-spacing="0.3">Email</text>
+  <text x="50" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="500" fill="#e2e8f0" letter-spacing="0.3">Email</text>
+  <path d="M196 22 L202 27 L196 32" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
-  <rect x="0.5" y="0.5" width="159" height="39" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="6"/>
-  <g transform="translate(15, 10)" stroke="#0891b2" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M2 0 L11 0 L15 4 L15 19 L2 19 Z"/>
-    <path d="M11 0 L11 4 L15 4"/>
-    <path d="M5 9 L12 9 M5 13 L12 13"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52">
+  <rect x="0.5" y="0.5" width="219" height="51" fill="#f8fafc" stroke="#d1d5db" stroke-width="1" rx="6"/>
+  <g transform="translate(18, 15)" stroke="#0891b2" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M2 0 L13 0 L18 5 L18 22 L2 22 Z"/>
+    <path d="M13 0 L13 5 L18 5"/>
+    <path d="M6 11 L14 11 M6 15 L14 15"/>
   </g>
-  <text x="46" y="25" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#1e293b" letter-spacing="0.3">Resume</text>
+  <text x="50" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="500" fill="#1e293b" letter-spacing="0.3">Resume</text>
+  <path d="M196 22 L202 27 L196 32" stroke="#0891b2" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
