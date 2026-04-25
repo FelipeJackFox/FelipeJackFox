@@ -8,28 +8,23 @@
 <a href="https://www.linkedin.com/in/felipepachecozamorano">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/btn-li-light.svg"/>
-    <img src="./assets/btn-li.svg" height="40" alt="LinkedIn — Felipe Pacheco Zamorano"/>
+    <img src="./assets/btn-li.svg" height="52" alt="LinkedIn — Felipe Pacheco Zamorano"/>
   </picture>
 </a>
 &nbsp;
 <a href="mailto:felipepachecozamorano@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"/>
-    <img src="./assets/btn-email.svg" height="40" alt="Email — felipepachecozamorano@gmail.com"/>
+    <img src="./assets/btn-email.svg" height="52" alt="Email — felipepachecozamorano@gmail.com"/>
   </picture>
 </a>
 &nbsp;
 <a href="./resume.pdf">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/btn-resume-light.svg"/>
-    <img src="./assets/btn-resume.svg" height="40" alt="Resume — download PDF"/>
+    <img src="./assets/btn-resume.svg" height="52" alt="Resume — download PDF"/>
   </picture>
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/bio-light.svg"/>
-  <img src="./assets/bio.svg" width="800" alt="About me. Focused on artificial intelligence, robotics, and systems that learn from the real world. When I'm not coding, I'm probably drawing or tinkering with a new side project."/>
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
