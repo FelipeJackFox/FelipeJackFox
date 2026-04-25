@@ -13,6 +13,9 @@
     <filter id="cardShadowLight" x="-2%" y="-5%" width="104%" height="115%">
       <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.20" flood-color="#000000"/>
     </filter>
+    <filter id="bandShadowLight" x="-2%" y="-15%" width="106%" height="135%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-opacity="0.30" flood-color="#000000"/>
+    </filter>
   </defs>
 
   <g filter="url(#cardShadowLight)">
@@ -20,20 +23,6 @@
   </g>
 
   <g clip-path="url(#cardClipLight)">
-    <rect x="0" y="12" width="800" height="46" fill="url(#redGradLight)"/>
-    <rect x="0" y="12" width="800" height="2" fill="#FFFFFF" opacity="0.18"/>
-
-    <circle cx="42" cy="35" r="6" fill="#FFFFFF">
-      <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-
-    <text x="66" y="48" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="36" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2.5">BREAKING</text>
-
-    <rect x="200" y="62" width="600" height="42" fill="#f1f5f9"/>
-    <rect x="200" y="62" width="600" height="2" fill="#000000" opacity="0.08"/>
-
-    <text x="220" y="94" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="32" font-weight="900" font-style="italic" fill="#B0202C" letter-spacing="2.5">PROJECTS</text>
-
     <rect x="0" y="110" width="800" height="24" fill="#e2e8f0"/>
     <rect x="0" y="110" width="800" height="24" fill="url(#stripesLight)"/>
     <text x="20" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#475569" letter-spacing="2">AUTO-UPDATED 2026-04-24</text>
@@ -44,4 +33,22 @@
     <text x="20" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#1e293b">▸ Solving Mosel LP models and k-means clustering exercises for ITESM coursework.</text>
     <text x="20" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#475569">▸ Planning the minegpt data pipeline after completing the Minecraft wiki scrape.</text>
   </g>
+
+  <g filter="url(#bandShadowLight)">
+    <polygon points="0,12 580,12 570,58 0,58" fill="url(#redGradLight)"/>
+  </g>
+  <polygon points="0,12 580,12 578,16 0,16" fill="#FFFFFF" opacity="0.18"/>
+
+  <circle cx="32" cy="35" r="6" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="56" y="48" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="36" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2.5">BREAKING</text>
+
+  <g filter="url(#bandShadowLight)">
+    <polygon points="130,62 640,62 630,104 130,104" fill="#f1f5f9"/>
+  </g>
+  <polygon points="130,62 640,62 638,66 130,66" fill="#000000" opacity="0.05"/>
+
+  <text x="160" y="94" font-family="Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif" font-size="32" font-weight="900" font-style="italic" fill="#B0202C" letter-spacing="2.5">PROJECTS</text>
 </svg>
