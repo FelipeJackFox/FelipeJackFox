@@ -1,0 +1,5 @@
+# Local-only Claude Code memory (paths and references specific to this machine).
+CLAUDE.md
+
+# Run logs from the now-card-refresh scheduled task, if any land here.
+*.log
