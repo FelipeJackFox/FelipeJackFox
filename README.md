@@ -58,28 +58,28 @@
 <a href="https://github.com/FelipeJackFox/rl-snake">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/card-rl-snake-light.svg"/>
-    <img src="./assets/card-rl-snake.svg" width="380" alt="rl-snake — Reinforcement learning agent that learns to play Snake from raw game state. Built in Python."/>
+    <img src="./assets/card-rl-snake.svg" width="800" alt="rl-snake — Reinforcement learning agent that learns to play Snake from raw game state. Built in Python."/>
   </picture>
 </a>
-&nbsp;
+
 <a href="https://github.com/FelipeJackFox/shazam-demo">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/card-shazam-light.svg"/>
-    <img src="./assets/card-shazam.svg" width="380" alt="shazam-demo — Audio fingerprinting and song recognition, a Shazam-style demo in Python."/>
+    <img src="./assets/card-shazam.svg" width="800" alt="shazam-demo — Audio fingerprinting and song recognition, a Shazam-style demo in Python."/>
   </picture>
 </a>
-<br/><br/>
+
 <a href="https://github.com/FelipeJackFox/NC-Syndrome">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/card-nc-syndrome-light.svg"/>
-    <img src="./assets/card-nc-syndrome.svg" width="380" alt="NC-Syndrome — Statistical analysis project: applied stats and data exploration in R."/>
+    <img src="./assets/card-nc-syndrome.svg" width="800" alt="NC-Syndrome — Statistical analysis project: applied stats and data exploration in R."/>
   </picture>
 </a>
-&nbsp;
+
 <a href="https://github.com/FelipeJackFox/PsiNotes">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/card-psinotes-light.svg"/>
-    <img src="./assets/card-psinotes.svg" width="380" alt="PsiNotes — Native Android notes app: minimal, focused, and offline-first. Built in Kotlin."/>
+    <img src="./assets/card-psinotes.svg" width="800" alt="PsiNotes — Native Android notes app: minimal, focused, and offline-first. Built in Kotlin."/>
   </picture>
 </a>
 

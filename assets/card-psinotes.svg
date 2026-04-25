@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="100" viewBox="0 0 380 100">
-  <rect x="0.5" y="0.5" width="379" height="99" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
-  <text x="20" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="500" fill="#e2e8f0" letter-spacing="0.3">PsiNotes</text>
-  <text x="334" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="400" fill="#64748b" text-anchor="end">Kotlin</text>
-  <path d="M348 26 L356 32 L348 38" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="20" y="60" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Native Android notes app — minimal,</text>
-  <text x="20" y="78" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">focused, and offline-first.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90" role="img" aria-label="PsiNotes repository: Native Android notes app — minimal, focused, and offline-first. Built in Kotlin. Active in 2025.">
+  <defs>
+    <linearGradient id="thumbGradPS" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0a0d12"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="799" height="89" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
+  <rect x="16" y="14" width="80" height="62" rx="4" fill="url(#thumbGradPS)" stroke="#334155" stroke-width="1"/>
+  <text x="56" y="55" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" font-style="italic" fill="#22d3ee" text-anchor="middle" letter-spacing="2">PS</text>
+
+  <text x="116" y="36" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0" letter-spacing="0.3">PsiNotes</text>
+  <text x="116" y="60" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#94a3b8">Native Android notes app — minimal, focused, and offline-first.</text>
+
+  <rect x="616" y="22" width="74" height="22" rx="11" fill="#0a0d12" stroke="#334155" stroke-width="1"/>
+  <circle cx="628" cy="33" r="3" fill="#7c3aed"/>
+  <text x="638" y="37" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" fill="#cbd5e1">Kotlin</text>
+
+  <text x="690" y="62" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="400" fill="#64748b" text-anchor="end">active 2025</text>
+
+  <path d="M758 39 L766 45 L758 51" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
