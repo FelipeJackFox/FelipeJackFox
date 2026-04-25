@@ -48,17 +48,10 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/label-projects-light.svg"/>
-  <img src="./assets/label-projects.svg" height="28" alt="Featured Projects"/>
-</picture>
-
-<br/>
-
-<a href="https://github.com/FelipeJackFox/rl-snake">
+<a href="https://github.com/FelipeJackFox/minegpt">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/card-rl-snake-light.svg"/>
-    <img src="./assets/card-rl-snake.svg" width="800" alt="rl-snake — Reinforcement learning agent that learns to play Snake from raw game state. Built in Python."/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/card-minegpt-light.svg"/>
+    <img src="./assets/card-minegpt.svg" width="800" alt="minegpt — Minecraft encyclopedia LLM (~120M params) trained from scratch in MLX. Built in Python."/>
   </picture>
 </a>
 
@@ -69,10 +62,10 @@
   </picture>
 </a>
 
-<a href="https://github.com/FelipeJackFox/NC-Syndrome">
+<a href="https://github.com/FelipeJackFox/rl-snake">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/card-nc-syndrome-light.svg"/>
-    <img src="./assets/card-nc-syndrome.svg" width="800" alt="NC-Syndrome — Statistical analysis project: applied stats and data exploration in R."/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/card-rl-snake-light.svg"/>
+    <img src="./assets/card-rl-snake.svg" width="800" alt="rl-snake — Reinforcement learning agent that learns to play Snake from raw game state. Built in Python."/>
   </picture>
 </a>
 
