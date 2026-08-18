@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Solving Mosel LP models and k-means clustering exercises for ITESM coursework. Planning the minegpt data pipeline after completing the Minecraft wiki scrape."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an AI companion with a unified emotion engine and agentic browser. Auditing and fixing defects in an Elo rating engine."/>
 </picture>
 
 <picture>

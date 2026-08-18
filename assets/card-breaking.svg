@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="184" viewBox="0 0 800 184" role="img" aria-label="Breaking projects: Building minegpt Phase 4.0 — unified curation tooling and Q&amp;A pipeline. Solving deterministic optimization exercises in Mosel and LaTeX for ITESM.">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="184" viewBox="0 0 800 184" role="img" aria-label="Breaking projects: Building an AI companion with a unified emotion engine and agentic browser. Auditing and fixing defects in an Elo rating engine.">
   <defs>
     <clipPath id="cardClip">
       <polygon points="20,0 800,0 780,184 0,184"/>
@@ -25,13 +25,13 @@
   <g clip-path="url(#cardClip)">
     <rect x="0" y="110" width="800" height="24" fill="#0E1116"/>
     <rect x="0" y="110" width="800" height="24" fill="url(#stripes)"/>
-    <text x="20" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="2">AUTO-UPDATED 2026-04-29</text>
+    <text x="20" y="126" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="2">AUTO-UPDATED 2026-08-18</text>
 
     <rect x="0" y="135" width="800" height="1" fill="#FFFFFF" opacity="0.15"/>
 
     <rect x="0" y="136" width="800" height="48" fill="#161B22"/>
-    <text x="20" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#E2E8F0">▸ Building minegpt Phase 4.0 — unified curation tooling and Q&A pipeline.</text>
-    <text x="20" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">▸ Solving deterministic optimization exercises in Mosel and LaTeX for ITESM.</text>
+    <text x="20" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#E2E8F0">▸ Building an AI companion with a unified emotion engine and agentic browser.</text>
+    <text x="20" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">▸ Auditing and fixing defects in an Elo rating engine.</text>
   </g>
 
   <g filter="url(#bandShadow)">
