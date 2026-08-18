@@ -1,6 +1,11 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png"/>
+  <img src="./assets/banner-dark.png" width="800" alt="procedural pixel-art banner — a new one every day"/>
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-header-light.svg"/>
   <img src="./assets/card-header.svg" width="800" alt="Felipe Pacheco — Data Science and Mathematics student at ITESM, currently in Year 2 of 4. Focus: AI, Robotics, Applied Math."/>
 </picture>
