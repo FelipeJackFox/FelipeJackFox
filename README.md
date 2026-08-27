@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an AI companion with secure integrations and resilient automation. Auditing and fixing defects in an Elo rating engine."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Training a Street Fighter reinforcement-learning agent with a reproducible setup. Building robust chess-rating research pipelines with game-level evaluation."/>
 </picture>
 
 <picture>
