@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Training a Street Fighter reinforcement-learning agent with a reproducible setup. Refining an AI desktop companion through architecture and UI cleanup."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Architecting a headless background daemon for an AI desktop companion. Auditing Lichess datasets and architecture biases for chess rating models."/>
 </picture>
 
 <picture>
