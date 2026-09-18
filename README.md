@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an Electron Windows port and managed LaTeX runtime for Telar. Tuning neural architectures and mitigating biases for chess rating models."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Developing an AI desktop companion with OS automation and vision capabilities. Profiling PyTorch pipelines and diagnosing throughput for chess rating models."/>
 </picture>
 
 <picture>
