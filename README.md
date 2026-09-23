@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an AI desktop companion with expressive 3D characters and faster rendering. Profiling PyTorch pipelines and diagnosing throughput for chess rating models."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an AI companion with live voice conversations and mobile tool integration. Profiling PyTorch pipelines and diagnosing throughput for chess rating models."/>
 </picture>
 
 <picture>
