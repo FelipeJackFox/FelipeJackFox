@@ -33,7 +33,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building a modular desktop AI companion with full-screen UI and agent monitoring. Scaling distributed data harvesting and adversarial test suites for chess models."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Scaling Lichess data harvesting for distributed chess models. Building a modular desktop AI companion with full-screen UI and agent monitoring."/>
 </picture>
 
 <picture>
