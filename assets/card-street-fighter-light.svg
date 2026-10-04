@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="88" viewBox="0 0 800 88" role="img" aria-label="street_fighter repository: Distributed Ape-X DQN that beats Street Fighter II' — ~90% of full fights at level 8. 2025–26.">
+  <rect x="0.5" y="0.5" width="799" height="87" rx="10" fill="#FCFBF8" stroke="#E5E0D6"/>
+  <rect x="16.5" y="16.5" width="55" height="55" rx="8" fill="#F4F1EA" stroke="#E5E0D6"/>
+  <g fill="none" stroke="#B23D25" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M32 30 V36 A12 12 0 0 0 44 48 H50"/><path d="M46 43.5 L50.5 48 L46 52.5"/></g><circle cx="35" cy="54" r="3.4" fill="#1F1D1A"/>
+  <text x="92" y="41" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#1F1D1A"><tspan fill="#857E73" font-weight="400">LEIA-qro/</tspan>street_fighter</text>
+  <text x="92" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#57524A">Distributed Ape-X DQN that beats Street Fighter II' — ~90% of full fights at level 8.</text>
+  <text x="744" y="48" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="11" fill="#857E73" text-anchor="end">2025–26</text>
+  <path d="M758 48 L766 40 M760 40 H766 V46" stroke="#B23D25" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

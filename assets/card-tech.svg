@@ -1,37 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="386" viewBox="0 0 800 386" role="img" aria-label="Tech stack as a TOML config file shown inside a Windows Terminal window. Languages: Python (primary), C++ (intermediate), R (applied stats), Kotlin (mobile). ML frameworks: PyTorch (RL and DL), TensorFlow (supervised). Tools: AWS (cloud), Git (daily).">
-  <rect x="0.5" y="0.5" width="799" height="385" fill="#1a1b26" stroke="#2d2f43" stroke-width="1" rx="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="352" viewBox="0 0 800 352" role="img" aria-label="Tech stack as a TOML config file. Languages: Python (primary), C++ (intermediate), R (applied stats), Kotlin (mobile). ML: PyTorch (RL and DL), TensorFlow (supervised). Tools: AWS (cloud), Git (daily).">
+  <rect x="0.5" y="0.5" width="799" height="351" rx="10" fill="#1A1917" stroke="#34312C"/>
 
-  <rect x="0.5" y="0.5" width="799" height="32" fill="#16161e" rx="8"/>
-  <rect x="0.5" y="22" width="799" height="11" fill="#16161e"/>
-  <line x1="0" y1="33" x2="800" y2="33" stroke="#2d2f43" stroke-width="1"/>
-
-  <rect x="8" y="6" width="240" height="26" rx="4" fill="#1a1b26" stroke="#2d2f43" stroke-width="1"/>
-  <rect x="20" y="13" width="14" height="12" rx="2" fill="#7aa2f7"/>
-  <text x="27" y="22" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="8" font-weight="700" fill="#16161e" text-anchor="middle">&gt;_</text>
-  <text x="42" y="23" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" fill="#c0caf5">tech-stack.toml</text>
-  <text x="234" y="22" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#565f89">×</text>
-
-  <text x="265" y="24" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="#565f89">+</text>
-  <text x="295" y="24" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#565f89">⌄</text>
-
-  <line x1="724" y1="20" x2="734" y2="20" stroke="#565f89" stroke-width="1"/>
-  <rect x="752" y="14" width="10" height="10" rx="1" fill="none" stroke="#565f89" stroke-width="1"/>
-  <text x="784" y="24" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#565f89" text-anchor="middle">×</text>
-
-  <text x="20" y="70" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#7aa2f7">~/.config</tspan><tspan fill="#bb9af7"> ❯ </tspan><tspan fill="#c0caf5">cat tech-stack.toml</tspan></text>
-
-  <text x="20" y="106" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#565f89">  # 8 packages · curated stack</text>
-
-  <text x="20" y="142" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[languages]</text>
-  <text x="20" y="164" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  python  </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"primary"</tspan></text>
-  <text x="20" y="186" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  cpp     </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"intermediate"</tspan></text>
-  <text x="20" y="208" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  r       </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"applied stats"</tspan></text>
-  <text x="20" y="230" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  kotlin  </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"mobile"</tspan></text>
-
-  <text x="20" y="262" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[ml]</text>
-  <text x="20" y="284" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  pytorch    </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"RL · DL"</tspan></text>
-  <text x="20" y="306" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  tensorflow </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"supervised"</tspan></text>
-
-  <text x="20" y="338" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13" fill="#f7768e">[tools]</text>
-  <text x="20" y="360" font-family="'SF Mono', Menlo, 'Cascadia Code', 'Courier New', monospace" font-size="13"><tspan fill="#c0caf5">  aws </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"cloud"</tspan><tspan fill="#c0caf5">    git </tspan><tspan fill="#565f89">= </tspan><tspan fill="#9ece6a">"daily"</tspan></text>
+  <text x="20" y="28" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#7D766C">~/.config/<tspan fill="#EEE9E0">tech-stack.toml</tspan></text>
+  <text x="780" y="28" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7D766C" letter-spacing="1.2" text-anchor="end"># 8 PACKAGES · CURATED</text>
+  <line x1="0" y1="44.5" x2="800" y2="44.5" stroke="#34312C"/>
+  <line x1="50.5" y1="45" x2="50.5" y2="351" stroke="#34312C"/>
+  <g font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="13">
+  <text x="40" y="74" text-anchor="end" fill="#7D766C" fill-opacity="0.7">1</text><text x="60" y="74"><tspan fill="#7D766C">[</tspan><tspan fill="#E8735A">languages</tspan><tspan fill="#7D766C">]</tspan></text>
+  <text x="40" y="95" text-anchor="end" fill="#7D766C" fill-opacity="0.7">2</text><text x="60" y="95" fill="#EEE9E0">python</text><text x="116.42" y="95" fill="#7D766C">=</text><text x="132.54" y="95" fill="#AEBE8C">"primary"</text>
+  <text x="40" y="116" text-anchor="end" fill="#7D766C" fill-opacity="0.7">3</text><text x="60" y="116" fill="#EEE9E0">cpp</text><text x="116.42" y="116" fill="#7D766C">=</text><text x="132.54" y="116" fill="#AEBE8C">"intermediate"</text>
+  <text x="40" y="137" text-anchor="end" fill="#7D766C" fill-opacity="0.7">4</text><text x="60" y="137" fill="#EEE9E0">r</text><text x="116.42" y="137" fill="#7D766C">=</text><text x="132.54" y="137" fill="#AEBE8C">"applied stats"</text>
+  <text x="40" y="158" text-anchor="end" fill="#7D766C" fill-opacity="0.7">5</text><text x="60" y="158" fill="#EEE9E0">kotlin</text><text x="116.42" y="158" fill="#7D766C">=</text><text x="132.54" y="158" fill="#AEBE8C">"mobile"</text>
+  <text x="40" y="179" text-anchor="end" fill="#7D766C" fill-opacity="0.7">6</text>
+  <text x="40" y="200" text-anchor="end" fill="#7D766C" fill-opacity="0.7">7</text><text x="60" y="200"><tspan fill="#7D766C">[</tspan><tspan fill="#E8735A">ml</tspan><tspan fill="#7D766C">]</tspan></text>
+  <text x="40" y="221" text-anchor="end" fill="#7D766C" fill-opacity="0.7">8</text><text x="60" y="221" fill="#EEE9E0">pytorch</text><text x="148.66" y="221" fill="#7D766C">=</text><text x="164.78" y="221" fill="#AEBE8C">"RL · DL"</text>
+  <text x="40" y="242" text-anchor="end" fill="#7D766C" fill-opacity="0.7">9</text><text x="60" y="242" fill="#EEE9E0">tensorflow</text><text x="148.66" y="242" fill="#7D766C">=</text><text x="164.78" y="242" fill="#AEBE8C">"supervised"</text>
+  <text x="40" y="263" text-anchor="end" fill="#7D766C" fill-opacity="0.7">10</text>
+  <text x="40" y="284" text-anchor="end" fill="#7D766C" fill-opacity="0.7">11</text><text x="60" y="284"><tspan fill="#7D766C">[</tspan><tspan fill="#E8735A">tools</tspan><tspan fill="#7D766C">]</tspan></text>
+  <text x="40" y="305" text-anchor="end" fill="#7D766C" fill-opacity="0.7">12</text><text x="60" y="305" fill="#EEE9E0">aws</text><text x="92.24" y="305" fill="#7D766C">=</text><text x="108.36" y="305" fill="#AEBE8C">"cloud"</text>
+  <text x="40" y="326" text-anchor="end" fill="#7D766C" fill-opacity="0.7">13</text><text x="60" y="326" fill="#EEE9E0">git</text><text x="92.24" y="326" fill="#7D766C">=</text><text x="108.36" y="326" fill="#AEBE8C">"daily"</text>
+  </g>
+  <rect x="168.78" y="315" width="7" height="14" fill="#E8735A">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
 </svg>

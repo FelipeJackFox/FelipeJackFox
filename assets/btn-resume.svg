@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52">
-  <rect x="0.5" y="0.5" width="219" height="51" fill="#0f172a" stroke="#334155" stroke-width="1" rx="6"/>
-  <g transform="translate(18, 15)" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M2 0 L13 0 L18 5 L18 22 L2 22 Z"/>
-    <path d="M13 0 L13 5 L18 5"/>
-    <path d="M6 11 L14 11 M6 15 L14 15"/>
-  </g>
-  <text x="50" y="32" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="500" fill="#e2e8f0" letter-spacing="0.3">Resume</text>
-  <path d="M196 22 L202 27 L196 32" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="0.5" y="0.5" width="219" height="51" rx="10" fill="#1A1917" stroke="#34312C"/>
+  <g stroke="#B3AC9F" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M19.5 17.5 H28 L32.5 22 V34.5 H19.5 Z"/><path d="M28 17.5 V22 H32.5"/><path d="M22.5 27 H29.5 M22.5 30.5 H27.5"/></g>
+  <text x="46" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#EEE9E0">Resume</text>
+  <text x="180" y="30.5" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10" fill="#7D766C" letter-spacing="1" text-anchor="end">PDF</text>
+  <path d="M192 30 L200 22 M194 22 H200 V28" stroke="#E8735A" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
