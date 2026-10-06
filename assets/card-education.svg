@@ -9,7 +9,7 @@
   <text x="32" y="142" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#B3AC9F" letter-spacing="0.6">Y1 · 2024–25</text>
   <rect x="218" y="120" width="178" height="4" rx="2" fill="#B3AC9F"/>
   <text x="218" y="142" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#B3AC9F" letter-spacing="0.6">Y2 · 2025–26</text>
-  <rect x="404" y="120" width="178" height="4" rx="2" fill="#34312C"/><rect x="404" y="120" width="31.68" height="4" rx="2" fill="#E8735A"/>
+  <rect x="404" y="120" width="178" height="4" rx="2" fill="#34312C"/><rect x="404" y="120" width="32.16" height="4" rx="2" fill="#E8735A"/>
   <text x="404" y="142" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#E8735A" letter-spacing="0.6">Y3 · 2026–27<tspan dx="8" fill="#E8735A">● NOW</tspan></text>
   <rect x="590.5" y="120.5" width="177" height="3" rx="1.5" fill="none" stroke="#34312C" stroke-dasharray="3 3"/>
   <text x="590" y="142" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7D766C" letter-spacing="0.6">Y4 · 2027–28</text>
