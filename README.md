@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Scaling Lichess data harvesting for distributed chess models. Building a modular desktop AI companion with full-screen UI and agent monitoring."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Training chess Elo prediction models on a 63M-game consolidated dataset. Engineering cross-device protocols and latency benchmarks for an AI companion."/>
 </picture>
 
 <picture>
