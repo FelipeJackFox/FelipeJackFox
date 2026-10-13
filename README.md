@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building a cross-device AI companion with responsive Android widgets and polished UI. Training chess Elo prediction models on a 63M-game consolidated dataset."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building an ambient smart display station for a cross-device AI companion. Evaluating v4 chess Elo prediction models across player holdout benchmarks."/>
 </picture>
 
 <picture>
