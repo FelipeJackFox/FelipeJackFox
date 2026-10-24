@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building a multi-agent paper-trading engine with risk kernels and live charts. Evaluating v4 chess Elo prediction models across player holdout benchmarks."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Assembling a chess Elo prediction model research paper. Building a multi-agent paper-trading engine with risk kernels and live charts."/>
 </picture>
 
 <picture>
