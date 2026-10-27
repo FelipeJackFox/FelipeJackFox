@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Assembling a chess Elo prediction model research paper. Building a multi-agent paper-trading engine with risk kernels and live charts."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Refining an AI desktop companion with daily generative banners and 3D avatars. Assembling a 23-page chess Elo prediction research paper in LaTeX."/>
 </picture>
 
 <picture>
