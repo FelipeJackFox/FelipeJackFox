@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building investment planning platform with Canvas integration and expense tracking. Assembling extended chess Elo research with 700+ citations and detailed references."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Shipping an Electron AI companion with statement parsing and ledger reconciliation. Solving stochastic optimization and simulation coursework in LaTeX for ITESM."/>
 </picture>
 
 <picture>
