@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Shipping an Electron AI companion with statement parsing and ledger reconciliation. Solving stochastic optimization and simulation coursework in LaTeX for ITESM."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Shipping an Electron AI companion with statement parsing and ledger reconciliation. Modeling chess Elo rating dynamics and statistical evaluation for a research paper."/>
 </picture>
 
 <picture>
