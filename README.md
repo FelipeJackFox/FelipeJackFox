@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building AI companion systems with resource planning and reinforcement learning. Modeling chess Elo rating dynamics and statistical evaluation for a research paper."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building RL-enhanced AI companions with mobile chat and task integration. Optimizing galaxy simulation systems with unified rendering pipelines."/>
 </picture>
 
 <picture>
