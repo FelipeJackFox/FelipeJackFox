@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-breaking-light.svg"/>
-  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Exploring P vs NP proof strategies and complexity theory in pequalnp-proofs. Training multilayer perceptrons and neural network models for ITESM coursework."/>
+  <img src="./assets/card-breaking.svg" width="800" alt="Breaking projects: Building a cybersecurity and cryptography hackathon platform — web UI and backend. Training multilayer perceptrons and Kaggle neural networks for ITESM coursework."/>
 </picture>
 
 <picture>
